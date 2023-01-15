@@ -5,7 +5,7 @@ import heroPatternD from '../assets/images/bg-pattern-intro-desktop.svg'
 const Hero = () => {
   return (
     <section className='relative h-[620px] bg-gradient-to-br from-very-light-red to-light-red grid place-content-center
-    md:bg-gradient-to-r md:from-very-light-red md:to-light-red rounded-bl-[120px] md:rounded-bl-[115px] overflow-hidden md:h-[100vh]'>
+    md:bg-gradient-to-r md:from-very-light-red md:to-light-red rounded-bl-[120px] md:rounded-bl-[115px] overflow-hidden md:h-[100vh] max-h-[780px]'>
       <div className='absolute top-0 left-0 right-0 '>
 
           <img src={heroPatternM} alt="" className='scale-[3.6] translate-x-36 translate-y-60 md:hidden' />

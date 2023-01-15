@@ -5,7 +5,7 @@ import DesktopImgD from '../assets/images/illustration-editor-desktop.svg'
 const ShowcaseOne = () => {
   return (
     <div className='overflow-x-hidden'>
-    <section className='max-w-[1112px] mx-auto my-[90px] md:my-[128px] p-5 md:p-7 '>
+    <section className='max-w-[1112px] mx-auto my-[90px] md:my-[120px] p-5 md:p-7 '>
 
       <h2 className='font-heading font-[600] text-[1.4rem] md:text-[2.1rem] lg:text-[2.3rem] text-center pb-11 md:pb-24 text-very-dark-blue'>Designed for the future</h2>
 
