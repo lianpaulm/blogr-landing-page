@@ -7,7 +7,7 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
-    <header className='absolute top-0 left-0 right-0 z-50 max-w-[1024px] mt-0 mx-auto flex gap-x-8 items-center px-5 md:px-7 h-[110px] md:h-[120px] text-white '>
+    <header className='absolute top-0 left-0 right-0 z-50 max-w-[1112px] mt-0 mx-auto flex gap-x-12 items-center px-5 md:px-7 h-[110px] md:h-[120px] text-white '>
 
       <a href="#" className='w-[4.5rem] md:w-[auto] flex-shrink-0 mr-auto md:mr-0' ><img src={Logo} alt="" /></a>
 
@@ -21,7 +21,7 @@ const Header = () => {
       </button>
     }
 
-      <div className={`${isMenuOpen ? 'flex' : 'hidden'} rounded-md absolute top-[100px] left-5 right-5 bg-white md:bg-[transparent] text-very-dark-black-blue md:static md:text-white  p-5 md:flex md:items-center md:w-full`}>
+      <div className={`${isMenuOpen ? 'flex' : 'hidden'} rounded-md absolute top-[100px] left-5 right-5 bg-white md:bg-[transparent] text-very-dark-black-blue md:static md:text-white  py-5 md:flex md:items-center md:w-full`}>
 
         <nav className=' flex gap-5 flex-col items-center w-full md:flex-row md:gap-10 md:w-full font-[500]'>
           <ul className='flex flex-col gap-5 md:flex-row md:gap-10 md:mr-auto items-center'>

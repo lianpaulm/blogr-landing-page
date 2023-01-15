@@ -1,6 +1,7 @@
 import Header from "./components/Header"
 import Hero from "./components/Hero"
-import Product from "./components/Product"
+import ShowcaseOne from "./components/ShowcaseOne"
+import ShowcaseTwo from "./components/ShowcaseTwo"
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
       <Header/>
       <main>
         <Hero/>
-        <Product/>
+        <ShowcaseOne/>
+        <ShowcaseTwo/>
       </main>
     </>
   )

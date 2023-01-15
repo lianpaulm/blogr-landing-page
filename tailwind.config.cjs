@@ -33,11 +33,6 @@ module.exports = {
       'body': ['"Ubuntu"', 'sans-serif'],
     },
     extend: {
-      backgroundImage: {
-        'hero-pattern-m': "url('/src/assets/images/bg-pattern-intro-mobile.svg')",
-        'hero-pattern-d': "url('/src/assets/images/bg-pattern-intro-desktop.svg')",
-        'footer-texture': "url('/img/footer-texture.png')",
-      },
       backgroundPosition: {
         'right-top-4': 'right -80rem top -83rem',
         'right-top-3': 'right -33rem top -15rem',
