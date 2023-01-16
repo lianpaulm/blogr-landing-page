@@ -25,7 +25,7 @@ const ShowcaseThree = () => {
               <h3 className="font-heading text-[1.4rem] lg:text-[1.6rem] font-[600] text-very-dark-blue mb-2 lg:mb-4 mx-auto max-[480px]:max-w-[185px]">
                 Free, open, simple
               </h3>
-              <p className="text-very-dark-grayish-blue">
+              <p className="text-very-dark-grayish-blue leading-relaxed">
                 Blogr is a free and open source application baked by a large
                 community of helpful developers. It supports features such as
                 code syntax highlighting. RSS feeds, social media integration,
@@ -39,7 +39,7 @@ const ShowcaseThree = () => {
               <h3 className="font-heading text-[1.4rem] lg:text-[1.6rem] font-[600] text-very-dark-blue mb-2 lg:mb-4 mx-auto max-[480px]:max-w-[185px]">
                 Powerful tooling
               </h3>
-              <p className="text-very-dark-grayish-blue">
+              <p className="text-very-dark-grayish-blue leading-relaxed">
                 Batteries included. We built a simple and straightforward CLI
                 tool that makes customization and deployment a breeze, but
                 capable of producing een the most complicated sites.

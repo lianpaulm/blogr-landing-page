@@ -15,7 +15,7 @@ const ShowcaseTwo = () => {
           <h3 className="text-[1.8rem] lg:text-[1.9rem] font-[600] font-heading max-[768px]:max-w-[210px] mx-auto leading-[1.3] mb-5 md:mb-4 ">
             State of the Art Infrastructure
           </h3>
-          <p className="text-grayish-blue">
+          <p className="text-grayish-blue leading-relaxed">
             With reliability and speed in mind, worldwide data centers provide
             the backbone for ultra-fast connectivity. This ensures your site
             will load instantly, no matter wher eyour readers are, keeping your

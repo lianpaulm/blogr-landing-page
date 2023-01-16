@@ -28,7 +28,7 @@ const ShowcaseOne = () => {
               <h3 className="font-heading text-[1.4rem] lg:text-[1.6rem] font-[600] text-very-dark-blue mb-2 lg:mb-4 mx-auto max-[480px]:max-w-[185px]">
                 Introducing an extensible editor
               </h3>
-              <p className="text-very-dark-grayish-blue">
+              <p className="text-very-dark-grayish-blue leading-relaxed">
                 Blogr features an exceedingly intuitive interface which lets you
                 focus on one thing: creating content. The editor supports
                 management of multiple blogs and allows easy manipulation of
@@ -42,7 +42,7 @@ const ShowcaseOne = () => {
               <h3 className="font-heading text-[1.4rem] lg:text-[1.6rem] font-[600] text-very-dark-blue mb-2 lg:mb-4 mx-auto max-[480px]:max-w-[185px]">
                 Robust content management
               </h3>
-              <p className="text-very-dark-grayish-blue">
+              <p className="text-very-dark-grayish-blue leading-relaxed">
                 Flexible content management enables users to easily mve through
                 posts. Increase the usability of your blog by adding customized
                 categories, sections, format, or flow. With this functionality,

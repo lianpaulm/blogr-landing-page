@@ -7,7 +7,7 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="absolute top-0 left-0 right-0 z-50 max-w-[1112px] mt-0 mx-auto flex gap-x-12 items-center px-5 md:px-7 h-[110px] md:h-[120px] text-white ">
+    <header className="absolute top-0 left-0 right-0 z-50 max-w-[1112px] mt-0 mx-auto flex gap-x-12 items-center px-5 md:px-7 h-[110px] md:h-[160px] text-white ">
       <a
         href="#"
         className="w-[4.5rem] md:w-[auto] flex-shrink-0 mr-auto md:mr-0"
