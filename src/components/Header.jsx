@@ -11,6 +11,7 @@ const Header = () => {
       <a
         href="#"
         className="w-[4.5rem] md:w-[auto] flex-shrink-0 mr-auto md:mr-0"
+        aria-label="logo"
       >
         <img src={Logo} alt="" />
       </a>
@@ -25,7 +26,7 @@ const Header = () => {
           />
         </button>
       ) : (
-        <button className="flex-shrink-0 ">
+        <button className="flex-shrink-0 " aria-label="mobile menu">
           <img
             src={Hamburger}
             alt=""

@@ -20,7 +20,7 @@ const ShowcaseThree = () => {
             className="object-contain hidden lg:absolute lg:-translate-y-56 lg:-translate-x-[20rem]  lg:block lg:max-w-[55rem] "
           />
 
-          <section className="text-center md:text-left  md:max-w-[32rem] md:basis-[100%] lg:-translate-y-[3.2rem] max-w-[30rem] mx-auto md:mx-0">
+          <div className="text-center md:text-left  md:max-w-[32rem] md:basis-[100%] lg:-translate-y-[3.2rem] max-w-[30rem] mx-auto md:mx-0">
             <div className="pb-11 lg:pb-16 ">
               <h3 className="font-heading text-[1.4rem] lg:text-[1.6rem] font-[600] text-very-dark-blue mb-2 lg:mb-4 mx-auto max-[480px]:max-w-[185px]">
                 Free, open, simple
@@ -45,7 +45,7 @@ const ShowcaseThree = () => {
                 capable of producing een the most complicated sites.
               </p>
             </div>
-          </section>
+          </div>
         </div>
       </div>
     </section>
