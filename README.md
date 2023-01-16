@@ -23,6 +23,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## My profile at Frontend Mentor
 
-- Website - [Lian Paul Molo](https://lianpaulmolo.vercel.app/)
-
 [@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
