@@ -18,7 +18,7 @@ const Hero = () => {
         />
       </div>
 
-      <div className="text-white text-center z-10 md:mx-10 md:mt-[1.8rem] lg:mt-[2rem]">
+      <div className="text-white text-center z-10 md:mx-10 md:mt-[1.8rem] lg:mt-[3rem]">
         <h1 className="font-heading font-[600] text-[2.4rem] md:text-[3.2rem] lg:text-[3.4rem] min-[375px]:max-w-[23rem] md:max-w-[100%] leading-[1.2] mb-4 md:mb-3 mx-auto px-2">
           A modern publishing platform
         </h1>
